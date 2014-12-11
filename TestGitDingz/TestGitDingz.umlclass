@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmlns:uml2tools.notation="http://www.eclipse.org/mdt/uml2tools/gmf/notation/ext/2008" xmi:id="_XMF7F4FTEeSpbtxYkAJNkQ" type="UMLClass" name="TestGitDingz" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_Xl1QwoFTEeSpbtxYkAJNkQ" type="2014" fontName="Segoe UI" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Xl1QxIFTEeSpbtxYkAJNkQ" type="5020"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Xl1QxYFTEeSpbtxYkAJNkQ" type="5041"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Xl1QxoFTEeSpbtxYkAJNkQ" type="7032" collapsed="true">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Xl1Qx4FTEeSpbtxYkAJNkQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Xl1QyIFTEeSpbtxYkAJNkQ"/>
+      <styles xmi:type="notation:CanonicalStyle" xmi:id="_Xl1QyYFTEeSpbtxYkAJNkQ"/>
+    </children>
+    <element xmi:type="uml:Package" href="TestGitDingz.uml#_XL8KEYFTEeSpbtxYkAJNkQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Xl1Qw4FTEeSpbtxYkAJNkQ"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_ZhfsMIFTEeSpbtxYkAJNkQ" type="2001" fontName="Segoe UI" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZhfsM4FTEeSpbtxYkAJNkQ" type="5003">
+      <styles xmi:type="notation:FontStyle" xmi:id="_ZhfsRIFTEeSpbtxYkAJNkQ" bold="true"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZhfsNIFTEeSpbtxYkAJNkQ" type="5019"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ZhfsNYFTEeSpbtxYkAJNkQ" type="7001">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ZhfsNoFTEeSpbtxYkAJNkQ" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ZhfsN4FTEeSpbtxYkAJNkQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ZhfsOIFTEeSpbtxYkAJNkQ"/>
+      <styles xmi:type="notation:CanonicalStyle" xmi:id="_ZhfsOYFTEeSpbtxYkAJNkQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ZhfsOoFTEeSpbtxYkAJNkQ" type="7002">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ZhfsO4FTEeSpbtxYkAJNkQ" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ZhfsPIFTEeSpbtxYkAJNkQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ZhfsPYFTEeSpbtxYkAJNkQ"/>
+      <styles xmi:type="notation:CanonicalStyle" xmi:id="_ZhfsPoFTEeSpbtxYkAJNkQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ZhfsP4FTEeSpbtxYkAJNkQ" type="7003">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ZhfsQIFTEeSpbtxYkAJNkQ" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ZhfsQYFTEeSpbtxYkAJNkQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ZhfsQoFTEeSpbtxYkAJNkQ"/>
+      <styles xmi:type="notation:CanonicalStyle" xmi:id="_ZhfsQ4FTEeSpbtxYkAJNkQ"/>
+    </children>
+    <styles xmi:type="notation:CanonicalStyle" xmi:id="_ZhfsMYFTEeSpbtxYkAJNkQ"/>
+    <element xmi:type="uml:Class" href="TestGitDingz.uml#_ZhWiQIFTEeSpbtxYkAJNkQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZhfsMoFTEeSpbtxYkAJNkQ" x="640" y="163"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_XMF7GIFTEeSpbtxYkAJNkQ"/>
+  <styles xmi:type="uml2tools.notation:U2TDiagramCanonicalStyle" xmi:id="_XMF7GYFTEeSpbtxYkAJNkQ"/>
+  <styles xmi:type="notation:FilteringStyle" xmi:id="_XMF7GoFTEeSpbtxYkAJNkQ"/>
+  <element xmi:type="uml:Package" href="TestGitDingz.uml#_XL8KEYFTEeSpbtxYkAJNkQ"/>
+</notation:Diagram>

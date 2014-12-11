@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_XL8KEIFTEeSpbtxYkAJNkQ" name="TestGitDingz">
+  <elementImport xmi:type="uml:ElementImport" xmi:id="_XMF7EYFTEeSpbtxYkAJNkQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:type="uml:ElementImport" xmi:id="_XMF7EoFTEeSpbtxYkAJNkQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:type="uml:ElementImport" xmi:id="_XMF7E4FTEeSpbtxYkAJNkQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:type="uml:ElementImport" xmi:id="_XMF7FIFTEeSpbtxYkAJNkQ">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_XMF7EIFTEeSpbtxYkAJNkQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UTILITY_PROFILE/dimensions43.uml#_WGnrAeAxEd--GtowLWgB4Q"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Package" xmi:id="_XL8KEYFTEeSpbtxYkAJNkQ" name="Classes">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZPpHMoFTEeSpbtxYkAJNkQ" source="Lookup">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZPpHM4FTEeSpbtxYkAJNkQ" key="Geometry" value="pathmap://GEOMETRY_CLASSES/geometry.profile.uml"/>
+    </eAnnotations>
+    <packagedElement xmi:type="uml:Class" xmi:id="_ZhWiQIFTEeSpbtxYkAJNkQ" name="Hurz"/>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_ZPpHMIFTEeSpbtxYkAJNkQ">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZPpHMYFTEeSpbtxYkAJNkQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://GEOMETRY_CLASSES/geometry.profile.uml#_gQeBod2TEeKsQs3_k1rRFQ"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://GEOMETRY_CLASSES/geometry.profile.uml#_NI-74EjPEeCZmbgsBKi5qQ"/>
+    </profileApplication>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_XL8KEoFTEeSpbtxYkAJNkQ" name="Instances"/>
+  <packagedElement xmi:type="uml:Package" xmi:id="_XL8KE4FTEeSpbtxYkAJNkQ" name="Rules"/>
+  <packagedElement xmi:type="uml:Package" xmi:id="_XL8KFIFTEeSpbtxYkAJNkQ" name="Programs">
+    <packagedElement xmi:type="uml:Package" xmi:id="_XL8KFYFTEeSpbtxYkAJNkQ" name="RootProgram">
+      <packagedElement xmi:type="uml:Activity" xmi:id="_XL8KFoFTEeSpbtxYkAJNkQ" name="TestGitDingz" node="_XL8KF4FTEeSpbtxYkAJNkQ _XL8KGIFTEeSpbtxYkAJNkQ">
+        <node xmi:type="uml:InitialNode" xmi:id="_XL8KF4FTEeSpbtxYkAJNkQ" name="start"/>
+        <node xmi:type="uml:ActivityFinalNode" xmi:id="_XL8KGIFTEeSpbtxYkAJNkQ" name="final"/>
+      </packagedElement>
+    </packagedElement>
+  </packagedElement>
+</uml:Model>
